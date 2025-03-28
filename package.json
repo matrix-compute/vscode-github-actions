@@ -564,7 +564,7 @@
     "@actions/languageserver": "*",
     "@actions/workflow-parser": "*",
     "@octokit/rest": "^19.0.7",
-    "@vscode/vsce": "^2.19.0",
+    "@vscode/vsce": "^2.28.0",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
     "dayjs": "^1.11.7",
